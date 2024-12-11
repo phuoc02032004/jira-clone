@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { Task } from "@/features/tasks/types";
-import { formatDistanceToNow } from "date-fns";
+import { formatDistanceToNow } from 'date-fns';
 import { CalendarIcon, PlusIcon, SettingsIcon } from "lucide-react";
 
 import { Member } from "@/features/members/types";
